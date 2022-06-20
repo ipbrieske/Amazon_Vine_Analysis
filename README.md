@@ -15,8 +15,8 @@ With the database secured, the next task was to address our original question: c
 - Vine reviewers submitted 20 5-star reviews, compared to a total of 15,672 5-star reviews submitted by non-Vine reviewers
 
 - Vine reviewers submitted a lower percentage of 5-star reviews than the general public
-    - ![Paid Reviews]()
-    - ![Unpaid Reviews]()
+    - ![Paid Reviews](https://github.com/ipbrieske/Amazon_Vine_Analysis/blob/main/Images/paid_results.png)
+    - ![Unpaid Reviews](https://github.com/ipbrieske/Amazon_Vine_Analysis/blob/main/Images/unpaid_results.png)
     - While the general public submitted 55.6% of all reviews as 5-star, Vine reviewers only submitted 32.8% of their reviews as 5-star. 
 
 # Summary
